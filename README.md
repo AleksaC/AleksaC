@@ -1,7 +1,5 @@
-## 🔜 [twitch.tv/aleksacu](https://twitch.tv/aleksacu)
-
-## My power level
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksaC&count_private=true&show_icons=true&include_all_commits=true)
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksaC)](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksaC&theme=tokyonight)
+![](https://raw.githubusercontent.com/AleksaC/AleksaC/master/profile-summary-card-output/dracula/0-profile-details.svg)
+![](https://raw.githubusercontent.com/AleksaC/AleksaC/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/AleksaC/AleksaC/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/AleksaC/AleksaC/master/profile-summary-card-output/dracula/3-stats.svg)
+![](https://raw.githubusercontent.com/AleksaC/AleksaC/master/profile-summary-card-output/dracula/4-productive-time.svg)
